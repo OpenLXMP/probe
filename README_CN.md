@@ -62,7 +62,7 @@
 
 ```bash
 # 安装示例
-wget https://example.com/probe.php
+wget https://raw.githubusercontent.com/OpenLXMP/probe/refs/heads/main/probe.php
 chmod 644 probe.php
 ```
 

@@ -62,7 +62,7 @@ A comprehensive PHP server monitoring and diagnostic tool that provides real-tim
 
 ```bash
 # Example installation
-wget https://example.com/probe.php
+wget https://raw.githubusercontent.com/OpenLXMP/probe/refs/heads/main/probe.php
 chmod 644 php_probe.php
 ```
 
